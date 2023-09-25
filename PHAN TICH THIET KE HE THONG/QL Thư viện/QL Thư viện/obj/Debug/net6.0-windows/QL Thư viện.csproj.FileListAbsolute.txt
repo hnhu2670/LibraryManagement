@@ -1,0 +1,18 @@
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\bin\Debug\net6.0-windows\QL Thư viện.exe
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\bin\Debug\net6.0-windows\QL Thư viện.deps.json
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\bin\Debug\net6.0-windows\QL Thư viện.runtimeconfig.json
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\bin\Debug\net6.0-windows\QL Thư viện.dll
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\bin\Debug\net6.0-windows\QL Thư viện.pdb
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.csproj.AssemblyReference.cache
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL_Thư_viện.Form1.resources
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL_Thư_viện.Properties.Resources.resources
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.csproj.GenerateResource.cache
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.AssemblyInfoInputs.cache
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.AssemblyInfo.cs
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.csproj.CoreCompileInputs.cache
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.dll
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\refint\QL Thư viện.dll
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.pdb
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\QL Thư viện.genruntimeconfig.cache
+D:\STUDY\NAM 2\KÌ 3\PHAN TICH THIET KE HE THONG\QL Thư viện\QL Thư viện\obj\Debug\net6.0-windows\ref\QL Thư viện.dll
